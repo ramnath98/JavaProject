@@ -6,5 +6,10 @@ public class Test {
 	{
 		System.out.println("M1 Method");
 	}
+	public void m2()
+	{
+		System.out.println("M2 Method");
+	}
+
 
 }
